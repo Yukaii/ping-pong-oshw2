@@ -36,5 +36,5 @@ pause: `
 ```
 
 ##References
-https://github.com/yoxisem544/oshw2
-http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html
+* https://github.com/yoxisem544/oshw2
+* http://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html
