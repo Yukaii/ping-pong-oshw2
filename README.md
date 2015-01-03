@@ -12,6 +12,7 @@
 ```bash
 	brew install ncurses
 	brew ln ncurses --force
+	make && ./pong
 ```
 
 ##基本操作
